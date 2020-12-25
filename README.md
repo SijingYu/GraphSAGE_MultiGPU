@@ -11,3 +11,6 @@ Command to run:<br />
 
 30 -- number of epochs<br />
 0,1,2,3 -- gpus<br />
+
+To generate plots for accuracy and losses, plot the output arrays from running above commands since it might cause trouble for some systems.
+Data_Plots.ipynb is an example with output data and plotting code.
